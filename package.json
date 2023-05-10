@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/lopun/cs457-project-playground/issues"
   },
-  "homepage": "https://github.com/lopun/cs457-project-playground#readme"
+  "homepage": "https://github.com/lopun/cs457-project-playground#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
 }
